@@ -17,5 +17,5 @@
 .idea
 image/*
 lgtm_image/*
-!sample_image/sample-lgtm-cat.png
+complete_image/*
 lgtm-cat-backend
