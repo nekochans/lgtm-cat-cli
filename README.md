@@ -4,6 +4,7 @@ lgtm-cat（サービス名 LGTMeow https://lgtmeow.com のバックエンド用
 ## 環境
 - Go v1.15
 - S3にファイルをアップロードするため、AWS 名前付きプロファイルが設定されていること(プロファイル名: `lgtm-cat`)
+- [webp](https://formulae.brew.sh/formula/webp) ( cwebp を実行できること )
 
 ## LGTM画像の作成方法
 
