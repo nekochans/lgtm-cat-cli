@@ -1,5 +1,5 @@
-# lgtm-cat-backend
-lgtm-cat（サービス名 LGTMeow https://lgtmeow.com のバックエンド用
+# lgtm-cat-cli
+lgtm-cat（サービス名 LGTMeow https://lgtmeow.com ）で利用するスクリプトをまとめたプロジェクト
 
 ## 環境
 - Go v1.15
